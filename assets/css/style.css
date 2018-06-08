@@ -29,6 +29,16 @@ p{
     padding: 15px;
 }
 
+.label1{
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: absolute;
+    bottom: 5px;
+    width: 84%;
+    font-weight: bold;
+}
+
 footer {
     background: #666;
     border-top: 3px solid #4aaaa5;
@@ -37,4 +47,8 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+img{
+    margin-bottom: 10px;
 }
